@@ -1,0 +1,12 @@
+   
+.bdy {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.frm {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
